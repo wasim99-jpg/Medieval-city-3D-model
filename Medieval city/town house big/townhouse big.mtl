@@ -1,0 +1,1139 @@
+# Blender MTL File: 'townhouse big.blend'
+# Material Count: 104
+
+newmtl Material.065
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.072
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\roof.jpg
+
+newmtl Material.075
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\roof.jpg
+
+newmtl Material.076
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\roof.jpg
+
+newmtl Material.089
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\roof.jpg
+
+newmtl Material.091
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\roof.jpg
+
+newmtl Material.094
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\roof.jpg
+
+newmtl Material.095
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\roof.jpg
+
+newmtl Material.096
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\roof.jpg
+
+newmtl Material.097
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.098
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.099
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.100
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.101
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.102
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.103
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.104
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.105
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.106
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.107
+Ns 543.737650
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.147689 0.519284
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.108
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.109
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.110
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.111
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.112
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.113
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.114
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.115
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.116
+Ns 543.737650
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.147689 0.519284
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.117
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.118
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.119
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.120
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.121
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.122
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.125
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.126
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.127
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.128
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.129
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.130
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.131
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.132
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.133
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.134
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.135
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.136
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.137
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.138
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.139
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.140
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.141
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.142
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.143
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.144
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.145
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.146
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.147
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.148
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.149
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.150
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.151
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.152
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.153
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.154
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.155
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.156
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.157
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.158
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.159
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.160
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.161
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.162
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.163
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.164
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.165
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.166
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.167
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.168
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.169
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.170
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.171
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.172
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.173
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.174
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.175
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.176
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.177
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.178
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.179
+Ns 543.737650
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.147689 0.519284
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.180
+Ns 543.737650
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.147689 0.519284
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.183
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.184
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.185
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.186
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.187
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.188
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.189
+Ns 543.737650
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.147689 0.519284
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.190
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.191
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.192
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.193
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
+
+newmtl Material.194
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.195
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Users\\Public\\Downloads\\UiTM shah alam matters\\CSC658\\CSC658 FINAL PROJECT\\town house\\wood .jpg
